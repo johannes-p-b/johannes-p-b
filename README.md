@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johannes-p-b
-- 👀 theoretical astrophysics
-- 🌱 *radiative transfer in warped disks*
+- 👋 Hi, I’m Johannes
+- theoretical astrophysics
+- *radiative transfer in warped protoplanetary disks*
 
 <!---
 johannes-p-b/johannes-p-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
